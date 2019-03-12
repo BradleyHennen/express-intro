@@ -14,6 +14,7 @@ Setup New NPM/Node Project:
 - npm init -y (in the folder you are working in)
 - npm install express
 - git add -> commit -> push
+- add start script to package.json (use npm start in terminal)
 
 Download Existing Node Project:
 - Fork/Clone git repository
